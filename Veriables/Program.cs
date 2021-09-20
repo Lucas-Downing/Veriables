@@ -10,6 +10,19 @@ namespace Veriables
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Variables:");
+
+            int score;
+            score = 0;
+
+            Console.WriteLine(score);
+            Console.WriteLine("score");
+
+            score = score + 100;
+            Console.WriteLine(score);
+            Console.ReadKey(true);
+
+            
         }
     }
 }

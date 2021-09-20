@@ -1,0 +1,7 @@
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\bin\Debug\Veriables.exe.config
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\bin\Debug\Veriables.exe
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\bin\Debug\Veriables.pdb
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\obj\Debug\Veriables.csproj.AssemblyReference.cache
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\obj\Debug\Veriables.csproj.CoreCompileInputs.cache
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\obj\Debug\Veriables.exe
+C:\Users\W0448265\OneDrive - Nova Scotia Community College\Programming\Veriables\Veriables\obj\Debug\Veriables.pdb
