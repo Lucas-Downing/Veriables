@@ -42,9 +42,29 @@ namespace Veriables
             Console.WriteLine(lastname);
             Console.WriteLine(fullname);
 
+            //-----------------FLOATS-----------------------------
 
+            float speed;
+            float distanceTravelled;
+            speed = 100.00f;
+            distanceTravelled = 0.0f;
 
+            Console.WriteLine("Speedometer: " + speed);
+            Console.WriteLine("Odometer: " + distanceTravelled);
 
+            //---------------------INTS vs. FLOATS-----------------------
+
+            int test1;
+            float test2;
+            test1 = 10 / 3;
+            test2 = 10.0f / 3.0f;
+
+            Console.WriteLine(test1);
+            Console.WriteLine(test2);
+
+            Console.WriteLine();
+            Console.WriteLine("-------Bye Bye-------");
+            Console.WriteLine("Press any key to exit");
             Console.ReadKey(true);
         }
     }
