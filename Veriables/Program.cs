@@ -20,9 +20,32 @@ namespace Veriables
 
             score = score + 100;
             Console.WriteLine(score);
-            Console.ReadKey(true);
+
+
 
             
+
+            // --------------------------------- STRINGS -----------------------------------------------------
+
+            string name;
+            name = "Lucas";
+            Console.WriteLine(name);
+            Console.WriteLine();
+            string firstname;
+            string lastname;
+            string fullname;
+
+            firstname = "Lucas"; //Declares firstname
+            lastname = "Downing"; //declares lastname
+            fullname = firstname + " " + lastname; //combines first and last name for the full name
+            Console.WriteLine(firstname);
+            Console.WriteLine(lastname);
+            Console.WriteLine(fullname);
+
+
+
+
+            Console.ReadKey(true);
         }
     }
 }
